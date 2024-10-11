@@ -19,6 +19,11 @@ Removes the need to sell courses over popular platforms which charge a high perc
 - Database: MongoDB
 - Authentication: JSON Web Token (JWT)
 
+## Screenshots:
+![Screenshot (46)](https://github.com/user-attachments/assets/06deb0a7-3180-46a2-8d50-b79eee0180c1)
+![Screenshot (47)](https://github.com/user-attachments/assets/da35d88f-ed52-4a80-aa39-07ae6033738b)
+
+
 ## Getting Started
 
 To run the project locally, follow these steps:
